@@ -1,4 +1,4 @@
-Squash Client Library: Java
+Squash Client Library: Java Pavan
 ===========================
 
 This client library reports exceptions to Squash, the Squarish exception
